@@ -96,6 +96,7 @@ In cooking, ingredients are measured in grams, teaspoons, or cups. Similarly, in
      - A histogram skewed to the left represents a darker image.
      - A histogram skewed to the right represents a brighter image.
 
+![histogram_plot](https://github.com/user-attachments/assets/4540d538-dfd5-4f46-b077-e52c9ec796bf)
 
 
 ## Let’s Cook!
@@ -128,6 +129,7 @@ Filters are tools for enhancing or suppressing specific image features. Think of
    - Example: **Erosion** and **Dilation**.
 
 ---
+![image](https://github.com/user-attachments/assets/1498dd00-d901-4abf-bb9d-409d67aec581)
 
 ### Gaussian Blur
 Gaussian Blur is one of the most commonly used blurring filters. It applies a **Gaussian kernel** (a weighted average) to neighboring pixels, creating a smooth and creamy appearance by blending intensities.
@@ -204,8 +206,9 @@ Steps:
 2. Normalize the CDF to map intensities across the full range.
 3. Replace pixel values based on the new mapping.
 
-**Use Case**:
-- Enhancing medical images or underexposed photographs.
+
+
+![image](https://github.com/user-attachments/assets/ff303c1f-5f51-4fa6-a0eb-0556c3b7502a)
 
 ---
 
